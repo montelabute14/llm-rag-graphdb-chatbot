@@ -1,0 +1,904 @@
+po_id,requester_name,approver_name,send_back_reason,id
+316866,R66,A11,Bad item.,0
+168828,R1,A65,Please supply the spend cateogry.,1
+188336,R232,A80,Spend category is missing.,2
+210923,R105,A22,Mising spend categor.,3
+316747,R232,A11,Mising spend categor.,4
+43429,R548,A11,Mising spend categor.,5
+116699,R734,A80,Please supply the spend cateogry.,6
+330816,R66,A11,Wrong supplier.,7
+202947,R33,A22,Mising spend categor.,8
+313027,R901,A11,This item is in violates procurement compliance rules. Please remove item.,9
+162325,R901,A22,Mising spend categor.,10
+215973,R734,A80,Wrong supplier.,11
+37489,R1,A35,Mising spend categor.,12
+74725,R105,A11,Please supply the spend cateogry.,13
+258983,R66,A22,This is not an approved supplier. Please find another vendor.,14
+205331,R66,A80,Fill in the item.,15
+16936,R9,A35,Mising spend categor.,16
+128045,R9,A22,Unapproved supplier. Either cancel the order or find another vendor.,17
+201016,R901,A22,Spend category is missing.,18
+165520,R987,A65,Please supply the spend cateogry.,19
+205240,R548,A11,Missing item information.,20
+33442,R987,A35,Bad item.,21
+80360,R987,A65,This is not an approved supplier. Please find another vendor.,22
+92046,R105,A65,Missing item nme and descripions,23
+274116,R105,A35,Spend category is missing.,24
+16306,R33,A35,Wrong supplier.,25
+164224,R105,A22,This item is in violates procurement compliance rules. Please remove item.,26
+61141,R734,A22,This item is in violates procurement compliance rules. Please remove item.,27
+94021,R734,A35,This item is in violates procurement compliance rules. Please remove item.,28
+279558,R105,A80,Bad item.,29
+215639,R105,A35,Non-compliant item. Remove.,30
+169124,R1,A80,Please supply the spend cateogry.,31
+135613,R66,A11,Spend category is missing.,32
+45204,R105,A65,This item is in violates procurement compliance rules. Please remove item.,33
+95534,R9,A65,Please supply the spend cateogry.,34
+266300,R105,A80,Mising spend categor.,35
+45875,R548,A35,Bad item.,36
+166688,R66,A65,Please supply the spend cateogry.,37
+148586,R987,A35,Unapproved supplier. Either cancel the order or find another vendor.,38
+209765,R33,A22,Missing item information.,39
+14970,R734,A35,Missing item nme and descripions,40
+323498,R548,A65,Spend category is missing.,41
+146439,R33,A11,This is not an approved supplier. Please find another vendor.,42
+280237,R987,A65,Mising spend categor.,43
+324964,R105,A22,Spend category is missing.,44
+103096,R105,A11,Missing item nme and descripions,45
+218307,R548,A11,Fill in the item.,46
+123953,R734,A22,Please supply the spend cateogry.,47
+101115,R232,A11,Missing item nme and descripions,48
+200616,R1,A22,Missing item nme and descripions,49
+287974,R1,A35,Missing item information.,50
+127122,R987,A35,Wrong supplier.,51
+317161,R66,A35,Fill in the item.,52
+49465,R105,A35,Missing item nme and descripions,53
+317718,R987,A80,Mising spend categor.,54
+287701,R33,A65,Spend category is missing.,55
+176132,R548,A22,Missing item nme and descripions,56
+93238,R232,A65,Bad item.,57
+57051,R66,A35,Fill in the item.,58
+102532,R734,A11,Spend category is missing.,59
+329610,R987,A11,Spend category is missing.,60
+190172,R66,A65,Spend category is missing.,61
+94207,R232,A22,Mising spend categor.,62
+269194,R105,A22,Missing item information.,63
+167611,R1,A35,Bad item.,64
+311258,R9,A65,Non-compliant item. Remove.,65
+142758,R901,A11,Missing item information.,66
+298911,R66,A80,Please supply the spend cateogry.,67
+235983,R901,A22,Mising spend categor.,68
+274330,R734,A80,Please supply the spend cateogry.,69
+326357,R987,A11,Missing item nme and descripions,70
+295163,R105,A65,Missing item information.,71
+22808,R734,A65,Wrong supplier.,72
+279517,R232,A22,Wrong supplier.,73
+81447,R232,A22,This item is in violates procurement compliance rules. Please remove item.,74
+246771,R987,A22,Fill in the item.,75
+208042,R66,A11,Please supply the spend cateogry.,76
+292757,R734,A35,Spend category is missing.,77
+318207,R548,A65,Non-compliant item. Remove.,78
+6031,R66,A80,Unapproved supplier. Either cancel the order or find another vendor.,79
+51453,R1,A35,Mising spend categor.,80
+105115,R33,A22,This item is in violates procurement compliance rules. Please remove item.,81
+281150,R105,A65,Mising spend categor.,82
+113957,R232,A80,Missing item nme and descripions,83
+67834,R9,A35,Please supply the spend cateogry.,84
+77021,R734,A35,Spend category is missing.,85
+6847,R66,A35,Spend category is missing.,86
+143555,R66,A11,This item is in violates procurement compliance rules. Please remove item.,87
+86185,R105,A65,This item is in violates procurement compliance rules. Please remove item.,88
+304532,R548,A65,Mising spend categor.,89
+68725,R548,A35,Non-compliant item. Remove.,90
+283029,R66,A22,Please supply the spend cateogry.,91
+187951,R548,A35,Non-compliant item. Remove.,92
+18065,R66,A65,Please supply the spend cateogry.,93
+175244,R66,A11,Please supply the spend cateogry.,94
+3189,R9,A11,Mising spend categor.,95
+233044,R66,A35,Missing item nme and descripions,96
+248617,R232,A35,Missing item nme and descripions,97
+247814,R901,A65,Bad item.,98
+164316,R987,A22,Spend category is missing.,99
+52730,R9,A22,Unapproved supplier. Either cancel the order or find another vendor.,100
+79839,R9,A11,Fill in the item.,101
+278643,R9,A80,Please supply the spend cateogry.,102
+317115,R9,A80,Missing item information.,103
+139371,R901,A65,Missing item information.,104
+137456,R548,A65,Non-compliant item. Remove.,105
+200949,R734,A35,Non-compliant item. Remove.,106
+10378,R548,A22,Unapproved supplier. Either cancel the order or find another vendor.,107
+291881,R987,A11,Unapproved supplier. Either cancel the order or find another vendor.,108
+104863,R232,A65,Mising spend categor.,109
+274011,R1,A80,Bad item.,110
+248566,R901,A22,Please supply the spend cateogry.,111
+219628,R33,A80,Spend category is missing.,112
+115983,R1,A65,Non-compliant item. Remove.,113
+198304,R1,A11,This item is in violates procurement compliance rules. Please remove item.,114
+22023,R901,A65,Mising spend categor.,115
+146273,R9,A35,Spend category is missing.,116
+40041,R9,A35,This is not an approved supplier. Please find another vendor.,117
+2820,R1,A35,Missing item information.,118
+206609,R987,A35,Please supply the spend cateogry.,119
+318144,R33,A80,Fill in the item.,120
+110007,R987,A22,Bad item.,121
+43493,R33,A22,Please supply the spend cateogry.,122
+189228,R33,A80,Non-compliant item. Remove.,123
+275790,R33,A35,Unapproved supplier. Either cancel the order or find another vendor.,124
+228805,R734,A22,Spend category is missing.,125
+125332,R901,A80,This item is in violates procurement compliance rules. Please remove item.,126
+18063,R232,A22,Please supply the spend cateogry.,127
+339002,R232,A35,This item is in violates procurement compliance rules. Please remove item.,128
+136037,R548,A65,Bad item.,129
+246040,R734,A22,This is not an approved supplier. Please find another vendor.,130
+221118,R1,A65,Non-compliant item. Remove.,131
+42840,R33,A65,Missing item information.,132
+125561,R232,A65,Missing item information.,133
+69652,R734,A65,Please supply the spend cateogry.,134
+339450,R548,A11,Fill in the item.,135
+245052,R232,A11,This is not an approved supplier. Please find another vendor.,136
+81038,R33,A80,Spend category is missing.,137
+276032,R1,A35,Spend category is missing.,138
+71395,R548,A11,Wrong supplier.,139
+148873,R232,A11,Bad item.,140
+289004,R232,A80,This item is in violates procurement compliance rules. Please remove item.,141
+151355,R105,A22,Bad item.,142
+212144,R548,A35,Fill in the item.,143
+108726,R987,A11,This item is in violates procurement compliance rules. Please remove item.,144
+331024,R66,A11,This item is in violates procurement compliance rules. Please remove item.,145
+25842,R66,A11,Non-compliant item. Remove.,146
+338083,R987,A22,Fill in the item.,147
+110863,R734,A11,This item is in violates procurement compliance rules. Please remove item.,148
+126433,R987,A22,This item is in violates procurement compliance rules. Please remove item.,149
+140531,R232,A11,Spend category is missing.,150
+177280,R548,A22,This item is in violates procurement compliance rules. Please remove item.,151
+55581,R9,A35,Mising spend categor.,152
+178609,R66,A65,Spend category is missing.,153
+325650,R33,A65,Mising spend categor.,154
+42094,R66,A35,Bad item.,155
+264098,R1,A35,Please supply the spend cateogry.,156
+204911,R901,A22,Non-compliant item. Remove.,157
+149642,R1,A22,Unapproved supplier. Either cancel the order or find another vendor.,158
+245053,R987,A22,Mising spend categor.,159
+165103,R1,A11,Bad item.,160
+106520,R105,A22,Bad item.,161
+249833,R9,A65,Missing item nme and descripions,162
+311534,R105,A22,Mising spend categor.,163
+260459,R987,A65,Fill in the item.,164
+128672,R901,A80,Unapproved supplier. Either cancel the order or find another vendor.,165
+2218,R987,A35,Spend category is missing.,166
+296879,R987,A35,Spend category is missing.,167
+281783,R232,A22,Mising spend categor.,168
+220296,R105,A65,Please supply the spend cateogry.,169
+26442,R734,A22,Please supply the spend cateogry.,170
+306306,R734,A35,Wrong supplier.,171
+324020,R105,A11,Fill in the item.,172
+135837,R9,A65,Spend category is missing.,173
+263050,R66,A65,Missing item information.,174
+247892,R548,A11,Fill in the item.,175
+243657,R232,A11,Please supply the spend cateogry.,176
+289047,R734,A35,Mising spend categor.,177
+254002,R66,A65,Non-compliant item. Remove.,178
+291636,R901,A80,Spend category is missing.,179
+55872,R987,A22,Bad item.,180
+18962,R105,A35,Fill in the item.,181
+95131,R901,A80,Spend category is missing.,182
+60134,R548,A22,Missing item nme and descripions,183
+224649,R66,A80,Spend category is missing.,184
+185806,R901,A22,Missing item information.,185
+288292,R548,A65,Missing item information.,186
+167700,R9,A35,Unapproved supplier. Either cancel the order or find another vendor.,187
+17698,R9,A22,Mising spend categor.,188
+152219,R901,A80,Bad item.,189
+133763,R66,A11,Spend category is missing.,190
+268961,R66,A22,This item is in violates procurement compliance rules. Please remove item.,191
+143461,R901,A65,Mising spend categor.,192
+69418,R734,A80,Please supply the spend cateogry.,193
+317485,R9,A65,Wrong supplier.,194
+38765,R33,A35,Please supply the spend cateogry.,195
+330703,R232,A35,This item is in violates procurement compliance rules. Please remove item.,196
+241804,R901,A65,Mising spend categor.,197
+211638,R66,A35,This item is in violates procurement compliance rules. Please remove item.,198
+255004,R987,A65,Wrong supplier.,199
+45418,R1,A11,Mising spend categor.,200
+32799,R232,A80,Please supply the spend cateogry.,201
+154935,R1,A35,Missing item information.,202
+94093,R9,A80,Mising spend categor.,203
+27789,R232,A80,Mising spend categor.,204
+150575,R1,A65,Please supply the spend cateogry.,205
+254289,R987,A80,Fill in the item.,206
+189964,R1,A11,Please supply the spend cateogry.,207
+880,R734,A65,Missing item information.,208
+189682,R548,A11,Missing item nme and descripions,209
+274054,R33,A80,Missing item nme and descripions,210
+300516,R548,A80,Unapproved supplier. Either cancel the order or find another vendor.,211
+187666,R66,A11,Please supply the spend cateogry.,212
+294771,R548,A11,Bad item.,213
+145166,R1,A80,Mising spend categor.,214
+202748,R548,A80,Mising spend categor.,215
+225515,R734,A35,This item is in violates procurement compliance rules. Please remove item.,216
+209544,R987,A35,Fill in the item.,217
+5203,R987,A35,Mising spend categor.,218
+189365,R33,A22,Spend category is missing.,219
+95221,R734,A22,Non-compliant item. Remove.,220
+231335,R901,A11,Missing item nme and descripions,221
+163780,R105,A80,Fill in the item.,222
+72046,R105,A80,Spend category is missing.,223
+190730,R901,A65,This is not an approved supplier. Please find another vendor.,224
+242396,R9,A11,Wrong supplier.,225
+110085,R1,A65,Mising spend categor.,226
+258664,R9,A11,Please supply the spend cateogry.,227
+14641,R548,A65,Missing item nme and descripions,228
+242216,R9,A11,Spend category is missing.,229
+115739,R9,A80,Bad item.,230
+69300,R987,A11,Non-compliant item. Remove.,231
+296477,R1,A80,This item is in violates procurement compliance rules. Please remove item.,232
+99089,R987,A80,Non-compliant item. Remove.,233
+94968,R548,A80,Spend category is missing.,234
+58232,R987,A11,Fill in the item.,235
+19229,R33,A80,Missing item information.,236
+201883,R734,A35,Non-compliant item. Remove.,237
+100511,R232,A11,This is not an approved supplier. Please find another vendor.,238
+234220,R901,A11,Bad item.,239
+86651,R987,A80,Unapproved supplier. Either cancel the order or find another vendor.,240
+177253,R987,A35,Mising spend categor.,241
+247308,R33,A11,Missing item nme and descripions,242
+181075,R548,A22,This is not an approved supplier. Please find another vendor.,243
+271549,R232,A11,Mising spend categor.,244
+235674,R66,A80,Missing item information.,245
+133124,R734,A11,Please supply the spend cateogry.,246
+42081,R66,A65,This item is in violates procurement compliance rules. Please remove item.,247
+57685,R232,A80,Spend category is missing.,248
+106433,R548,A65,This is not an approved supplier. Please find another vendor.,249
+10261,R987,A35,Non-compliant item. Remove.,250
+126772,R9,A35,Mising spend categor.,251
+202136,R987,A22,Spend category is missing.,252
+4323,R734,A35,Mising spend categor.,253
+291705,R901,A80,Spend category is missing.,254
+247999,R1,A65,This is not an approved supplier. Please find another vendor.,255
+183459,R232,A65,Spend category is missing.,256
+177683,R232,A80,Please supply the spend cateogry.,257
+138086,R105,A80,Missing item information.,258
+319166,R33,A80,Please supply the spend cateogry.,259
+96716,R66,A80,Please supply the spend cateogry.,260
+238876,R901,A65,Missing item nme and descripions,261
+251214,R734,A65,Mising spend categor.,262
+318009,R901,A35,Mising spend categor.,263
+94938,R734,A35,Please supply the spend cateogry.,264
+116105,R548,A11,Missing item nme and descripions,265
+330183,R9,A11,Missing item information.,266
+90266,R9,A22,Mising spend categor.,267
+341821,R901,A80,Spend category is missing.,268
+248318,R1,A11,Missing item nme and descripions,269
+331058,R734,A65,Spend category is missing.,270
+232308,R1,A80,Spend category is missing.,271
+168492,R548,A80,Please supply the spend cateogry.,272
+275468,R734,A80,Spend category is missing.,273
+276808,R734,A11,Please supply the spend cateogry.,274
+220845,R901,A22,Bad item.,275
+23333,R105,A65,This item is in violates procurement compliance rules. Please remove item.,276
+128562,R9,A22,Non-compliant item. Remove.,277
+91717,R66,A11,Missing item nme and descripions,278
+340340,R33,A80,Non-compliant item. Remove.,279
+3410,R548,A80,Please supply the spend cateogry.,280
+151092,R66,A22,Please supply the spend cateogry.,281
+201053,R987,A11,Mising spend categor.,282
+254865,R548,A11,Bad item.,283
+93719,R1,A80,Please supply the spend cateogry.,284
+41676,R66,A35,Please supply the spend cateogry.,285
+324667,R548,A22,Mising spend categor.,286
+285032,R9,A65,Spend category is missing.,287
+293225,R987,A22,This item is in violates procurement compliance rules. Please remove item.,288
+145026,R548,A35,Spend category is missing.,289
+298728,R105,A11,Spend category is missing.,290
+291547,R1,A35,Mising spend categor.,291
+170595,R734,A35,Unapproved supplier. Either cancel the order or find another vendor.,292
+195692,R548,A35,Mising spend categor.,293
+112502,R901,A80,Mising spend categor.,294
+89392,R33,A22,Please supply the spend cateogry.,295
+173685,R987,A11,Spend category is missing.,296
+132855,R66,A22,Non-compliant item. Remove.,297
+336743,R548,A80,This is not an approved supplier. Please find another vendor.,298
+236081,R105,A22,Spend category is missing.,299
+213305,R66,A35,Mising spend categor.,300
+123957,R232,A65,This item is in violates procurement compliance rules. Please remove item.,301
+192040,R9,A65,This item is in violates procurement compliance rules. Please remove item.,302
+174579,R33,A80,Mising spend categor.,303
+177065,R66,A22,This item is in violates procurement compliance rules. Please remove item.,304
+147035,R232,A11,Missing item nme and descripions,305
+223560,R33,A80,Spend category is missing.,306
+211620,R901,A80,This item is in violates procurement compliance rules. Please remove item.,307
+167591,R734,A11,This item is in violates procurement compliance rules. Please remove item.,308
+70656,R66,A11,Unapproved supplier. Either cancel the order or find another vendor.,309
+72120,R901,A80,Spend category is missing.,310
+5577,R66,A22,Missing item information.,311
+222451,R33,A22,Fill in the item.,312
+283676,R734,A80,Bad item.,313
+316000,R901,A22,Wrong supplier.,314
+58167,R66,A80,Spend category is missing.,315
+255670,R548,A11,Spend category is missing.,316
+218550,R105,A65,Spend category is missing.,317
+313760,R232,A80,This is not an approved supplier. Please find another vendor.,318
+243337,R734,A11,This item is in violates procurement compliance rules. Please remove item.,319
+192920,R548,A80,Unapproved supplier. Either cancel the order or find another vendor.,320
+236717,R987,A22,Mising spend categor.,321
+22493,R548,A65,Fill in the item.,322
+312409,R548,A80,Non-compliant item. Remove.,323
+108507,R105,A22,Mising spend categor.,324
+205486,R9,A22,Mising spend categor.,325
+147926,R1,A11,Missing item information.,326
+66190,R9,A35,This is not an approved supplier. Please find another vendor.,327
+48053,R9,A80,This item is in violates procurement compliance rules. Please remove item.,328
+26983,R987,A80,Missing item information.,329
+285713,R66,A22,Spend category is missing.,330
+59582,R105,A80,Wrong supplier.,331
+310311,R33,A22,Please supply the spend cateogry.,332
+320830,R105,A35,Mising spend categor.,333
+225293,R9,A22,This item is in violates procurement compliance rules. Please remove item.,334
+173070,R66,A11,Mising spend categor.,335
+114600,R232,A65,Missing item information.,336
+334066,R734,A80,Please supply the spend cateogry.,337
+83999,R66,A22,Missing item information.,338
+205951,R105,A22,Missing item information.,339
+156223,R987,A22,Missing item information.,340
+277898,R987,A11,Spend category is missing.,341
+156980,R901,A80,Spend category is missing.,342
+117968,R734,A65,Missing item nme and descripions,343
+274613,R232,A22,Please supply the spend cateogry.,344
+192297,R987,A35,Mising spend categor.,345
+328252,R548,A11,Missing item information.,346
+150123,R105,A35,Mising spend categor.,347
+234403,R33,A22,Missing item nme and descripions,348
+340263,R66,A11,Mising spend categor.,349
+207435,R1,A35,Please supply the spend cateogry.,350
+150772,R232,A11,This is not an approved supplier. Please find another vendor.,351
+29142,R232,A80,Spend category is missing.,352
+28927,R232,A11,Missing item information.,353
+283715,R105,A65,Missing item nme and descripions,354
+204537,R232,A22,Mising spend categor.,355
+263616,R66,A65,Please supply the spend cateogry.,356
+279589,R901,A35,Spend category is missing.,357
+288711,R232,A80,Fill in the item.,358
+84205,R105,A65,Spend category is missing.,359
+219079,R9,A11,Bad item.,360
+232213,R901,A80,Spend category is missing.,361
+13964,R33,A65,Missing item information.,362
+141137,R66,A35,Bad item.,363
+321230,R33,A11,This is not an approved supplier. Please find another vendor.,364
+334313,R548,A35,Fill in the item.,365
+342045,R901,A65,Spend category is missing.,366
+158789,R9,A11,This item is in violates procurement compliance rules. Please remove item.,367
+94687,R548,A35,Spend category is missing.,368
+143426,R66,A11,Missing item information.,369
+109945,R987,A65,Fill in the item.,370
+256213,R901,A11,Mising spend categor.,371
+127231,R987,A11,Spend category is missing.,372
+128648,R33,A11,This is not an approved supplier. Please find another vendor.,373
+237542,R66,A80,Spend category is missing.,374
+149806,R9,A11,Mising spend categor.,375
+17556,R1,A22,Unapproved supplier. Either cancel the order or find another vendor.,376
+297979,R901,A65,This item is in violates procurement compliance rules. Please remove item.,377
+45646,R9,A22,Fill in the item.,378
+8333,R901,A35,Fill in the item.,379
+23531,R33,A65,Fill in the item.,380
+19307,R105,A65,Missing item nme and descripions,381
+38250,R987,A22,Please supply the spend cateogry.,382
+99023,R734,A35,Fill in the item.,383
+670,R987,A80,Please supply the spend cateogry.,384
+288280,R1,A35,Please supply the spend cateogry.,385
+138028,R548,A11,Non-compliant item. Remove.,386
+16445,R1,A80,Wrong supplier.,387
+117828,R105,A22,Fill in the item.,388
+136189,R734,A80,Mising spend categor.,389
+124900,R1,A35,Please supply the spend cateogry.,390
+57941,R548,A65,Please supply the spend cateogry.,391
+276153,R548,A65,Spend category is missing.,392
+10845,R66,A11,Missing item nme and descripions,393
+253730,R1,A11,This is not an approved supplier. Please find another vendor.,394
+315368,R734,A35,Fill in the item.,395
+196191,R1,A35,This item is in violates procurement compliance rules. Please remove item.,396
+293693,R33,A65,This is not an approved supplier. Please find another vendor.,397
+68352,R105,A80,Spend category is missing.,398
+183421,R987,A65,Spend category is missing.,399
+214405,R33,A35,This item is in violates procurement compliance rules. Please remove item.,400
+192339,R105,A80,This item is in violates procurement compliance rules. Please remove item.,401
+7838,R9,A22,Please supply the spend cateogry.,402
+268265,R548,A80,Please supply the spend cateogry.,403
+250905,R232,A22,Missing item information.,404
+327823,R734,A35,Missing item nme and descripions,405
+49038,R232,A65,Unapproved supplier. Either cancel the order or find another vendor.,406
+174941,R734,A65,Spend category is missing.,407
+301534,R33,A65,Missing item information.,408
+300414,R33,A65,Missing item information.,409
+260058,R232,A22,Non-compliant item. Remove.,410
+131241,R9,A11,Fill in the item.,411
+316680,R548,A80,This item is in violates procurement compliance rules. Please remove item.,412
+51371,R232,A11,Unapproved supplier. Either cancel the order or find another vendor.,413
+75542,R901,A22,Spend category is missing.,414
+136268,R33,A22,Mising spend categor.,415
+30931,R987,A65,Non-compliant item. Remove.,416
+313097,R901,A65,Missing item information.,417
+110063,R1,A80,Missing item information.,418
+239094,R105,A35,Fill in the item.,419
+142114,R232,A35,Please supply the spend cateogry.,420
+110769,R901,A11,Mising spend categor.,421
+38396,R987,A65,Spend category is missing.,422
+142579,R232,A65,Spend category is missing.,423
+166662,R105,A80,Unapproved supplier. Either cancel the order or find another vendor.,424
+190231,R105,A65,Missing item nme and descripions,425
+272696,R987,A80,Fill in the item.,426
+216297,R1,A65,Spend category is missing.,427
+254525,R9,A11,Fill in the item.,428
+225617,R33,A35,Bad item.,429
+131087,R987,A80,Missing item nme and descripions,430
+63681,R232,A11,Mising spend categor.,431
+247103,R105,A80,Bad item.,432
+132576,R9,A11,Spend category is missing.,433
+247455,R232,A11,Please supply the spend cateogry.,434
+309211,R1,A11,Fill in the item.,435
+179086,R66,A11,Wrong supplier.,436
+78601,R734,A35,This item is in violates procurement compliance rules. Please remove item.,437
+564,R232,A65,Mising spend categor.,438
+189407,R1,A65,Wrong supplier.,439
+155867,R232,A65,Please supply the spend cateogry.,440
+44105,R33,A22,Spend category is missing.,441
+55526,R1,A65,Fill in the item.,442
+126989,R901,A65,Missing item information.,443
+263155,R66,A80,This item is in violates procurement compliance rules. Please remove item.,444
+339132,R105,A11,Mising spend categor.,445
+80373,R987,A35,Mising spend categor.,446
+35840,R66,A22,Mising spend categor.,447
+168189,R66,A65,Mising spend categor.,448
+172145,R734,A11,Mising spend categor.,449
+105163,R734,A22,Mising spend categor.,450
+334549,R66,A11,Please supply the spend cateogry.,451
+231276,R105,A80,Spend category is missing.,452
+54930,R105,A65,Mising spend categor.,453
+261844,R548,A11,This is not an approved supplier. Please find another vendor.,454
+120711,R33,A22,Non-compliant item. Remove.,455
+327311,R734,A65,Non-compliant item. Remove.,456
+132980,R734,A22,Missing item information.,457
+235465,R1,A80,Spend category is missing.,458
+311081,R548,A35,Spend category is missing.,459
+48721,R1,A65,Non-compliant item. Remove.,460
+208034,R1,A22,Please supply the spend cateogry.,461
+274781,R232,A35,Fill in the item.,462
+68529,R548,A11,Spend category is missing.,463
+160160,R548,A65,Bad item.,464
+163358,R232,A65,Mising spend categor.,465
+94706,R105,A80,This item is in violates procurement compliance rules. Please remove item.,466
+261970,R548,A80,Unapproved supplier. Either cancel the order or find another vendor.,467
+173035,R33,A65,Missing item information.,468
+335165,R987,A22,This is not an approved supplier. Please find another vendor.,469
+19400,R901,A65,Spend category is missing.,470
+335280,R232,A80,Please supply the spend cateogry.,471
+309847,R987,A11,Missing item nme and descripions,472
+11946,R1,A11,Please supply the spend cateogry.,473
+198259,R232,A35,Spend category is missing.,474
+94075,R105,A80,Mising spend categor.,475
+65978,R987,A80,Please supply the spend cateogry.,476
+23422,R987,A65,Missing item information.,477
+169508,R232,A22,Please supply the spend cateogry.,478
+293802,R1,A11,Mising spend categor.,479
+308522,R987,A35,Please supply the spend cateogry.,480
+25925,R105,A35,This is not an approved supplier. Please find another vendor.,481
+74357,R734,A35,Missing item nme and descripions,482
+190596,R734,A11,Please supply the spend cateogry.,483
+181888,R901,A80,Non-compliant item. Remove.,484
+68832,R105,A11,Unapproved supplier. Either cancel the order or find another vendor.,485
+53798,R987,A35,Mising spend categor.,486
+46568,R9,A22,Unapproved supplier. Either cancel the order or find another vendor.,487
+319068,R9,A11,Fill in the item.,488
+111111,R901,A11,Non-compliant item. Remove.,489
+199315,R987,A80,Mising spend categor.,490
+175535,R232,A65,This item is in violates procurement compliance rules. Please remove item.,491
+256068,R901,A65,Mising spend categor.,492
+125292,R33,A35,Wrong supplier.,493
+259337,R734,A35,Please supply the spend cateogry.,494
+116626,R232,A80,Please supply the spend cateogry.,495
+301485,R548,A80,Bad item.,496
+302847,R9,A80,Bad item.,497
+85145,R734,A11,Spend category is missing.,498
+1524,R66,A11,Please supply the spend cateogry.,499
+266620,R66,A22,Mising spend categor.,500
+143485,R66,A35,Please supply the spend cateogry.,501
+246636,R901,A22,Spend category is missing.,502
+195796,R987,A11,Bad item.,503
+175028,R1,A80,Please supply the spend cateogry.,504
+151334,R33,A35,Missing item information.,505
+41527,R901,A35,Non-compliant item. Remove.,506
+161712,R987,A65,Mising spend categor.,507
+121830,R987,A35,Mising spend categor.,508
+229367,R901,A22,Spend category is missing.,509
+269516,R232,A22,Please supply the spend cateogry.,510
+109520,R105,A22,Please supply the spend cateogry.,511
+41229,R901,A65,Missing item information.,512
+114076,R33,A35,Spend category is missing.,513
+80877,R901,A65,Please supply the spend cateogry.,514
+222427,R548,A35,Mising spend categor.,515
+340896,R901,A35,This item is in violates procurement compliance rules. Please remove item.,516
+12226,R1,A65,Wrong supplier.,517
+295059,R66,A65,Missing item nme and descripions,518
+28430,R548,A35,Missing item information.,519
+113240,R1,A11,Mising spend categor.,520
+89858,R33,A22,Bad item.,521
+312152,R33,A11,Mising spend categor.,522
+79586,R987,A22,Mising spend categor.,523
+12507,R232,A22,Unapproved supplier. Either cancel the order or find another vendor.,524
+260267,R548,A11,Missing item information.,525
+81224,R9,A65,Spend category is missing.,526
+19361,R987,A80,Please supply the spend cateogry.,527
+137161,R734,A22,Missing item information.,528
+246862,R548,A80,Spend category is missing.,529
+79918,R33,A80,Spend category is missing.,530
+80186,R232,A35,Fill in the item.,531
+177239,R66,A80,Spend category is missing.,532
+302243,R105,A65,Mising spend categor.,533
+183315,R232,A35,Fill in the item.,534
+205659,R33,A65,Spend category is missing.,535
+176690,R232,A80,Missing item information.,536
+208001,R734,A22,Please supply the spend cateogry.,537
+256541,R66,A22,Bad item.,538
+340836,R548,A65,Please supply the spend cateogry.,539
+29276,R548,A35,Bad item.,540
+217944,R232,A80,This item is in violates procurement compliance rules. Please remove item.,541
+275655,R232,A11,Please supply the spend cateogry.,542
+77368,R105,A11,Spend category is missing.,543
+69438,R734,A22,Spend category is missing.,544
+160202,R901,A22,Missing item information.,545
+65212,R987,A35,Missing item information.,546
+316626,R734,A22,Spend category is missing.,547
+250807,R9,A35,This item is in violates procurement compliance rules. Please remove item.,548
+255136,R232,A80,Please supply the spend cateogry.,549
+13941,R901,A11,Missing item nme and descripions,550
+309539,R901,A65,Spend category is missing.,551
+169093,R232,A35,Wrong supplier.,552
+67920,R1,A80,Mising spend categor.,553
+70986,R548,A35,Mising spend categor.,554
+67798,R901,A65,Missing item nme and descripions,555
+315441,R105,A22,Please supply the spend cateogry.,556
+66949,R105,A80,This item is in violates procurement compliance rules. Please remove item.,557
+170787,R1,A35,Mising spend categor.,558
+202767,R232,A80,Please supply the spend cateogry.,559
+34333,R901,A65,Spend category is missing.,560
+282242,R987,A11,Spend category is missing.,561
+325967,R901,A35,Missing item nme and descripions,562
+133397,R105,A65,Please supply the spend cateogry.,563
+171983,R734,A80,Spend category is missing.,564
+110641,R1,A22,Spend category is missing.,565
+262713,R105,A22,Mising spend categor.,566
+206055,R9,A65,Unapproved supplier. Either cancel the order or find another vendor.,567
+106758,R901,A35,Mising spend categor.,568
+164369,R987,A11,Mising spend categor.,569
+274154,R105,A11,Non-compliant item. Remove.,570
+161012,R9,A35,Spend category is missing.,571
+232482,R987,A35,Bad item.,572
+174730,R548,A22,Missing item information.,573
+163864,R987,A22,Spend category is missing.,574
+215837,R105,A65,Mising spend categor.,575
+43012,R548,A11,Spend category is missing.,576
+197664,R9,A65,Spend category is missing.,577
+28917,R734,A22,Missing item nme and descripions,578
+133778,R66,A11,Missing item information.,579
+88630,R901,A35,Missing item nme and descripions,580
+80359,R33,A22,Please supply the spend cateogry.,581
+91425,R9,A65,Please supply the spend cateogry.,582
+91904,R66,A65,Missing item information.,583
+322339,R9,A65,This is not an approved supplier. Please find another vendor.,584
+295473,R33,A35,Missing item nme and descripions,585
+17943,R987,A22,Please supply the spend cateogry.,586
+40120,R734,A11,Mising spend categor.,587
+1684,R901,A65,Mising spend categor.,588
+104329,R232,A35,Fill in the item.,589
+166642,R232,A35,Missing item information.,590
+333780,R734,A80,Please supply the spend cateogry.,591
+140149,R987,A22,Please supply the spend cateogry.,592
+105705,R901,A65,Spend category is missing.,593
+278632,R1,A22,Non-compliant item. Remove.,594
+251345,R734,A80,Unapproved supplier. Either cancel the order or find another vendor.,595
+174651,R734,A65,Please supply the spend cateogry.,596
+5101,R9,A35,Please supply the spend cateogry.,597
+157857,R9,A22,Missing item information.,598
+38533,R105,A80,Bad item.,599
+186097,R987,A80,Please supply the spend cateogry.,600
+198795,R232,A80,Please supply the spend cateogry.,601
+293658,R901,A80,Mising spend categor.,602
+291227,R901,A35,Please supply the spend cateogry.,603
+206129,R232,A80,Unapproved supplier. Either cancel the order or find another vendor.,604
+1769,R33,A65,Mising spend categor.,605
+260922,R1,A11,Non-compliant item. Remove.,606
+22939,R232,A65,Please supply the spend cateogry.,607
+60765,R33,A11,This item is in violates procurement compliance rules. Please remove item.,608
+62963,R901,A65,Spend category is missing.,609
+273461,R9,A35,Spend category is missing.,610
+9772,R66,A22,Spend category is missing.,611
+89091,R734,A80,Unapproved supplier. Either cancel the order or find another vendor.,612
+151189,R1,A35,Spend category is missing.,613
+163961,R548,A11,Missing item nme and descripions,614
+280556,R105,A35,Wrong supplier.,615
+172315,R901,A35,Mising spend categor.,616
+92748,R734,A22,Missing item nme and descripions,617
+323279,R66,A65,Mising spend categor.,618
+219071,R734,A65,This is not an approved supplier. Please find another vendor.,619
+83480,R105,A35,Fill in the item.,620
+322547,R987,A35,Wrong supplier.,621
+178387,R66,A11,Bad item.,622
+150526,R734,A11,Unapproved supplier. Either cancel the order or find another vendor.,623
+246963,R548,A22,Mising spend categor.,624
+72600,R9,A11,Spend category is missing.,625
+75977,R33,A11,Spend category is missing.,626
+64665,R901,A22,Please supply the spend cateogry.,627
+285072,R9,A35,Please supply the spend cateogry.,628
+79318,R33,A11,Spend category is missing.,629
+219602,R9,A11,Mising spend categor.,630
+254823,R232,A11,This item is in violates procurement compliance rules. Please remove item.,631
+230488,R734,A35,Mising spend categor.,632
+279819,R987,A35,Mising spend categor.,633
+250102,R1,A80,Please supply the spend cateogry.,634
+268561,R987,A11,This is not an approved supplier. Please find another vendor.,635
+75096,R9,A35,Mising spend categor.,636
+162695,R232,A80,Missing item nme and descripions,637
+242520,R1,A65,Spend category is missing.,638
+257419,R66,A80,Bad item.,639
+75735,R987,A22,Bad item.,640
+272590,R66,A11,Unapproved supplier. Either cancel the order or find another vendor.,641
+255651,R734,A65,Please supply the spend cateogry.,642
+260678,R9,A35,Missing item information.,643
+284218,R734,A11,Non-compliant item. Remove.,644
+45754,R33,A11,Spend category is missing.,645
+170365,R548,A65,Non-compliant item. Remove.,646
+180974,R901,A80,Fill in the item.,647
+333553,R232,A22,Mising spend categor.,648
+206882,R105,A11,Mising spend categor.,649
+15028,R9,A35,Unapproved supplier. Either cancel the order or find another vendor.,650
+18798,R105,A35,Mising spend categor.,651
+210216,R987,A35,Missing item nme and descripions,652
+209437,R232,A80,Mising spend categor.,653
+208238,R232,A22,Mising spend categor.,654
+120997,R548,A22,Mising spend categor.,655
+307229,R548,A35,Please supply the spend cateogry.,656
+119389,R734,A65,Wrong supplier.,657
+6285,R9,A35,Spend category is missing.,658
+225409,R33,A22,Wrong supplier.,659
+239049,R33,A22,This item is in violates procurement compliance rules. Please remove item.,660
+341232,R105,A22,Non-compliant item. Remove.,661
+143949,R9,A80,This item is in violates procurement compliance rules. Please remove item.,662
+72749,R9,A22,Bad item.,663
+170503,R105,A11,Please supply the spend cateogry.,664
+149760,R734,A65,This item is in violates procurement compliance rules. Please remove item.,665
+126183,R734,A80,Non-compliant item. Remove.,666
+263903,R66,A80,Missing item information.,667
+115577,R105,A11,This item is in violates procurement compliance rules. Please remove item.,668
+177136,R9,A22,Fill in the item.,669
+38516,R33,A35,Wrong supplier.,670
+140580,R1,A11,Missing item information.,671
+76484,R987,A22,Spend category is missing.,672
+117021,R33,A35,Spend category is missing.,673
+187911,R901,A80,Missing item nme and descripions,674
+293343,R66,A11,Spend category is missing.,675
+245991,R9,A65,Missing item nme and descripions,676
+10977,R548,A80,This is not an approved supplier. Please find another vendor.,677
+291955,R901,A11,Spend category is missing.,678
+323622,R105,A35,This item is in violates procurement compliance rules. Please remove item.,679
+239005,R901,A11,Bad item.,680
+60407,R232,A11,Mising spend categor.,681
+112147,R734,A65,Spend category is missing.,682
+154962,R734,A80,Missing item nme and descripions,683
+249319,R232,A22,Mising spend categor.,684
+175731,R33,A80,Fill in the item.,685
+186208,R901,A11,Fill in the item.,686
+132949,R33,A22,Mising spend categor.,687
+21881,R33,A65,Mising spend categor.,688
+262185,R66,A11,Mising spend categor.,689
+124419,R734,A11,Please supply the spend cateogry.,690
+197120,R734,A65,Missing item nme and descripions,691
+341931,R548,A22,Please supply the spend cateogry.,692
+285987,R9,A65,Spend category is missing.,693
+10441,R1,A65,Spend category is missing.,694
+69857,R105,A22,Spend category is missing.,695
+180427,R66,A65,Unapproved supplier. Either cancel the order or find another vendor.,696
+189295,R9,A65,Please supply the spend cateogry.,697
+241665,R66,A35,Bad item.,698
+148099,R232,A11,Missing item information.,699
+269530,R548,A80,This is not an approved supplier. Please find another vendor.,700
+152375,R232,A65,Please supply the spend cateogry.,701
+128769,R734,A80,Please supply the spend cateogry.,702
+9458,R734,A35,Unapproved supplier. Either cancel the order or find another vendor.,703
+242133,R105,A65,Fill in the item.,704
+326214,R66,A11,Bad item.,705
+53387,R33,A22,This is not an approved supplier. Please find another vendor.,706
+304460,R232,A80,Spend category is missing.,707
+154856,R66,A80,Missing item information.,708
+109191,R734,A35,Mising spend categor.,709
+58623,R66,A11,Spend category is missing.,710
+171295,R987,A65,This item is in violates procurement compliance rules. Please remove item.,711
+190159,R548,A65,Bad item.,712
+18141,R548,A65,Unapproved supplier. Either cancel the order or find another vendor.,713
+330325,R105,A22,Please supply the spend cateogry.,714
+125406,R105,A11,Please supply the spend cateogry.,715
+322369,R901,A65,Bad item.,716
+6044,R734,A65,Please supply the spend cateogry.,717
+45694,R548,A22,Spend category is missing.,718
+60967,R987,A11,Missing item nme and descripions,719
+236185,R987,A80,Non-compliant item. Remove.,720
+129241,R548,A11,Missing item information.,721
+121364,R987,A11,Fill in the item.,722
+299554,R987,A22,Please supply the spend cateogry.,723
+26936,R548,A22,Missing item nme and descripions,724
+13085,R901,A35,Please supply the spend cateogry.,725
+95738,R33,A22,Fill in the item.,726
+66723,R9,A35,Mising spend categor.,727
+282153,R548,A65,Spend category is missing.,728
+113493,R548,A80,Spend category is missing.,729
+48621,R1,A35,Fill in the item.,730
+28794,R734,A35,Missing item nme and descripions,731
+164004,R1,A65,Non-compliant item. Remove.,732
+42314,R66,A65,Spend category is missing.,733
+30563,R901,A22,Missing item nme and descripions,734
+199560,R901,A11,Spend category is missing.,735
+218381,R33,A11,Please supply the spend cateogry.,736
+25060,R1,A80,Please supply the spend cateogry.,737
+42646,R33,A65,This is not an approved supplier. Please find another vendor.,738
+85006,R548,A80,Mising spend categor.,739
+21833,R105,A11,Spend category is missing.,740
+11427,R901,A35,Non-compliant item. Remove.,741
+221184,R548,A22,Please supply the spend cateogry.,742
+483,R1,A22,This item is in violates procurement compliance rules. Please remove item.,743
+156002,R901,A22,Unapproved supplier. Either cancel the order or find another vendor.,744
+219485,R105,A35,Spend category is missing.,745
+204846,R901,A11,Missing item nme and descripions,746
+287789,R1,A22,Mising spend categor.,747
+54868,R548,A65,Please supply the spend cateogry.,748
+264715,R1,A80,Spend category is missing.,749
+86697,R1,A65,Missing item information.,750
+101464,R1,A11,Mising spend categor.,751
+63838,R1,A65,Mising spend categor.,752
+100077,R987,A35,This item is in violates procurement compliance rules. Please remove item.,753
+118494,R9,A80,Please supply the spend cateogry.,754
+294138,R9,A65,Please supply the spend cateogry.,755
+95135,R901,A22,Missing item information.,756
+187020,R66,A65,Spend category is missing.,757
+183653,R105,A22,Please supply the spend cateogry.,758
+64505,R105,A22,Bad item.,759
+228195,R105,A11,Please supply the spend cateogry.,760
+94210,R548,A22,Mising spend categor.,761
+298250,R734,A11,Mising spend categor.,762
+51813,R734,A22,Spend category is missing.,763
+248509,R987,A35,Please supply the spend cateogry.,764
+263494,R1,A22,Fill in the item.,765
+45996,R987,A35,Spend category is missing.,766
+249063,R1,A22,Spend category is missing.,767
+201174,R734,A35,Missing item nme and descripions,768
+201507,R66,A11,Please supply the spend cateogry.,769
+165368,R66,A80,Spend category is missing.,770
+81899,R33,A65,This is not an approved supplier. Please find another vendor.,771
+159486,R66,A65,Spend category is missing.,772
+8469,R66,A22,Spend category is missing.,773
+39428,R901,A80,Mising spend categor.,774
+160057,R987,A22,Spend category is missing.,775
+20262,R734,A80,Spend category is missing.,776
+322158,R9,A11,Mising spend categor.,777
+200912,R66,A22,Mising spend categor.,778
+94675,R66,A65,Spend category is missing.,779
+177585,R66,A11,Mising spend categor.,780
+98322,R1,A22,Spend category is missing.,781
+208063,R1,A11,Spend category is missing.,782
+114343,R987,A65,Spend category is missing.,783
+281715,R987,A11,Fill in the item.,784
+181452,R901,A35,This item is in violates procurement compliance rules. Please remove item.,785
+340362,R33,A65,Spend category is missing.,786
+335952,R734,A22,Non-compliant item. Remove.,787
+215791,R987,A80,Missing item information.,788
+326334,R105,A22,Mising spend categor.,789
+308240,R987,A65,Spend category is missing.,790
+229332,R33,A22,Fill in the item.,791
+203127,R987,A80,Spend category is missing.,792
+117634,R548,A22,Non-compliant item. Remove.,793
+190077,R105,A11,Mising spend categor.,794
+39758,R1,A80,Mising spend categor.,795
+292661,R105,A80,Please supply the spend cateogry.,796
+297919,R33,A35,Missing item information.,797
+11575,R33,A80,Please supply the spend cateogry.,798
+55454,R901,A11,Fill in the item.,799
+321127,R734,A80,Missing item nme and descripions,800
+105464,R734,A22,Spend category is missing.,801
+176933,R9,A65,Missing item information.,802
+175825,R66,A35,Missing item information.,803
+17701,R33,A65,Spend category is missing.,804
+156226,R548,A80,Spend category is missing.,805
+7130,R734,A65,Missing item nme and descripions,806
+17745,R548,A11,Spend category is missing.,807
+165614,R232,A35,Missing item information.,808
+105750,R9,A22,Mising spend categor.,809
+282271,R232,A80,Mising spend categor.,810
+65290,R548,A35,Please supply the spend cateogry.,811
+256986,R66,A65,Non-compliant item. Remove.,812
+27143,R232,A80,Spend category is missing.,813
+268258,R33,A35,Mising spend categor.,814
+211439,R33,A80,Mising spend categor.,815
+83535,R1,A35,Missing item information.,816
+150694,R33,A80,Please supply the spend cateogry.,817
+301250,R1,A11,Please supply the spend cateogry.,818
+327199,R1,A65,Please supply the spend cateogry.,819
+92538,R232,A65,Bad item.,820
+103599,R548,A11,Spend category is missing.,821
+28766,R987,A22,Spend category is missing.,822
+273693,R105,A11,Non-compliant item. Remove.,823
+46728,R734,A35,This item is in violates procurement compliance rules. Please remove item.,824
+127382,R9,A80,Spend category is missing.,825
+280685,R1,A35,Spend category is missing.,826
+257056,R66,A35,Mising spend categor.,827
+258374,R548,A80,Missing item information.,828
+197797,R734,A65,Please supply the spend cateogry.,829
+312808,R987,A22,Please supply the spend cateogry.,830
+17530,R548,A11,Non-compliant item. Remove.,831
+273157,R548,A11,This item is in violates procurement compliance rules. Please remove item.,832
+324751,R9,A22,Missing item nme and descripions,833
+95239,R105,A35,Please supply the spend cateogry.,834
+5393,R987,A35,Wrong supplier.,835
+281664,R1,A80,Please supply the spend cateogry.,836
+241095,R105,A22,Missing item nme and descripions,837
+209033,R105,A11,Please supply the spend cateogry.,838
+162906,R734,A80,Mising spend categor.,839
+221790,R734,A35,Missing item information.,840
+285986,R66,A65,Mising spend categor.,841
+49809,R987,A11,Bad item.,842
+128808,R33,A65,Fill in the item.,843
+121145,R232,A11,Mising spend categor.,844
+279633,R9,A35,Mising spend categor.,845
+328977,R232,A35,Please supply the spend cateogry.,846
+213266,R1,A80,Please supply the spend cateogry.,847
+97938,R33,A35,Non-compliant item. Remove.,848
+218952,R548,A22,Please supply the spend cateogry.,849
+215353,R987,A35,Missing item nme and descripions,850
+79132,R548,A65,This is not an approved supplier. Please find another vendor.,851
+260321,R901,A80,Spend category is missing.,852
+183371,R9,A35,Mising spend categor.,853
+139376,R232,A22,Mising spend categor.,854
+324516,R987,A35,Spend category is missing.,855
+28587,R105,A35,Mising spend categor.,856
+31790,R901,A35,Mising spend categor.,857
+135928,R901,A35,Missing item information.,858
+321231,R548,A65,Wrong supplier.,859
+3739,R987,A22,Mising spend categor.,860
+277326,R33,A65,Non-compliant item. Remove.,861
+185343,R33,A35,Bad item.,862
+151313,R66,A11,This is not an approved supplier. Please find another vendor.,863
+132905,R901,A22,Please supply the spend cateogry.,864
+286700,R734,A80,Please supply the spend cateogry.,865
+248732,R901,A22,Wrong supplier.,866
+151666,R105,A22,Bad item.,867
+166756,R987,A11,Unapproved supplier. Either cancel the order or find another vendor.,868
+106816,R987,A80,Mising spend categor.,869
+287973,R33,A80,This item is in violates procurement compliance rules. Please remove item.,870
+309112,R33,A35,Non-compliant item. Remove.,871
+231641,R987,A80,Spend category is missing.,872
+145381,R734,A80,Fill in the item.,873
+90306,R33,A65,Mising spend categor.,874
+180233,R901,A35,Mising spend categor.,875
+305724,R66,A65,Missing item information.,876
+244961,R105,A22,This item is in violates procurement compliance rules. Please remove item.,877
+125433,R232,A22,Please supply the spend cateogry.,878
+47994,R9,A80,Mising spend categor.,879
+132927,R734,A11,Mising spend categor.,880
+197944,R548,A35,Spend category is missing.,881
+290875,R232,A22,Spend category is missing.,882
+287457,R9,A80,Non-compliant item. Remove.,883
+201905,R1,A11,Mising spend categor.,884
+15391,R548,A80,This is not an approved supplier. Please find another vendor.,885
+100398,R66,A35,Please supply the spend cateogry.,886
+158172,R548,A11,Fill in the item.,887
+25809,R734,A80,Fill in the item.,888
+23007,R66,A80,Mising spend categor.,889
+28747,R1,A11,Please supply the spend cateogry.,890
+35386,R105,A11,Missing item nme and descripions,891
+211951,R901,A80,This is not an approved supplier. Please find another vendor.,892
+8217,R548,A11,Missing item nme and descripions,893
+175703,R901,A22,Mising spend categor.,894
+167703,R987,A80,Missing item nme and descripions,895
+135728,R901,A35,Missing item information.,896
+310272,R901,A65,Mising spend categor.,897
+145287,R987,A11,This is not an approved supplier. Please find another vendor.,898
+324733,R9,A11,Non-compliant item. Remove.,899
+174067,R66,A22,Please supply the spend cateogry.,900
+138437,R1,A80,Spend category is missing.,901
+336288,R66,A80,Mising spend categor.,902
